@@ -1,0 +1,38 @@
+{
+    "downloads": {
+        "windows_android": {
+            "title": "Windows / Android",
+            "clients": [
+                {
+                    "name": "Clash Verge",
+                    "platform": "Windows",
+                    "icon": "https://github.com/dc8683/picx-images-hosting/raw/master/rocket/Clash.9gwri62wr1.webp",
+                    "url": "https://clashverge.dev/"
+                },
+                {
+                    "name": "Surfboard",
+                    "platform": "Android",
+                    "icon": "https://github.com/dc8683/picx-images-hosting/raw/master/rocket/Surfboard.8vn3vv8ggg.svg",
+                    "url": "https://manual.getsurfboard.com/"
+                }
+            ]
+        },
+        "macos_ios": {
+            "title": "macOS / iOS",
+            "clients": [
+                {
+                    "name": "Clash Verge",
+                    "platform": "macOS",
+                    "icon": "https://github.com/dc8683/picx-images-hosting/raw/master/rocket/Clash.9gwri62wr1.webp",
+                    "url": "https://clashverge.dev/"
+                },
+                {
+                    "name": "Shadowrocket",
+                    "platform": "iOS",
+                    "icon": "https://github.com/dc8683/picx-images-hosting/raw/master/rocket/Shadowrocket.8z6ptl1j67.webp",
+                    "url": "https://apps.apple.com/app/shadowrocket/id932747118"
+                }
+            ]
+        }
+    }
+}
