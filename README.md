@@ -38,6 +38,7 @@
 
 
 *  "siteName": "网站名称",
+*  "showLandingPage": true,   (落地页开关，true为开启/false为关闭)
 *  "logoUrl": "图片LOGO，如无图片LOGO则显示网站名称",
 *  "apiBaseUrl": "后端链接",
 *  "siteDescription": "首页副标题",
