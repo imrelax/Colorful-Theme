@@ -1,4 +1,4 @@
-import{u as j,r as f,a as U,k as H,c as y,b as s,e as r,d as c,t as a,m as k,B as S,G as I,l as N,w as T,f as B,j as p,o as u,i as W}from"./index.js";import{g as X,v as K,w as Q,a as R,x as Y,y as Z}from"./user.js";import{g as ss}from"./auth.js";import{_ as es}from"./_plugin-vue_export-helper.js";import{S as ts}from"./settings2.js";import{L as as}from"./lock.js";import{S as V}from"./send.js";import{C as os}from"./circle-x.js";import{C as z}from"./copy.js";import{c as is}from"./createLucideIcon.js";/**
+import{u as j,r as f,a as U,o as H,c as y,b as s,e as r,d as c,t as a,k,B as S,G as I,j as N,w as T,f as B,m as p,i as u,l as W}from"./index.js";import{g as X,v as K,w as Q,a as R,x as Y,y as Z}from"./user.js";import{g as ss}from"./auth.js";import{_ as es}from"./_plugin-vue_export-helper.js";import{S as ts}from"./settings2.js";import{L as as}from"./lock.js";import{S as V}from"./send.js";import{C as os}from"./circle-x.js";import{C as z}from"./copy.js";import{c as is}from"./createLucideIcon.js";/**
  * @license lucide-vue-next v0.562.0 - ISC
  *
  * This source code is licensed under the ISC license.

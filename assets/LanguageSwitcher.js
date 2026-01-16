@@ -1,4 +1,4 @@
-import{c as o}from"./createLucideIcon.js";import{u as h,p as d,c as _,o as f,e as a,w as t,b as n,d as r,t as v,s as M,f as c}from"./index.js";import{_ as w}from"./_plugin-vue_export-helper.js";/**
+import{c as o}from"./createLucideIcon.js";import{u as h,p as d,c as _,i as f,e as a,w as t,b as n,d as r,t as v,s as M,f as c}from"./index.js";import{_ as w}from"./_plugin-vue_export-helper.js";/**
  * @license lucide-vue-next v0.562.0 - ISC
  *
  * This source code is licensed under the ISC license.

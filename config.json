@@ -3,6 +3,7 @@
     "showLandingPage": true,
     "logoUrl": "图片LOGO，如无图片LOGO则显示网站名称",
     "apiBaseUrl": "后端链接",
+    "enableCaptcha": true,
     "siteDescription": "首页副标题",
     "copyright": "底部版权信息"
 }
